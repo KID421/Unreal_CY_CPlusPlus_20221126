@@ -14,8 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define CPLUSPLUS_CPP_ConeMove_generated_h
 
 #define FID_CPlusPlus_Source_CPlusPlus_CPP_ConeMove_h_10_SPARSE_DATA
-#define FID_CPlusPlus_Source_CPlusPlus_CPP_ConeMove_h_10_RPC_WRAPPERS
-#define FID_CPlusPlus_Source_CPlusPlus_CPP_ConeMove_h_10_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_CPlusPlus_Source_CPlusPlus_CPP_ConeMove_h_10_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execMoveObject);
+
+
+#define FID_CPlusPlus_Source_CPlusPlus_CPP_ConeMove_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execMoveObject);
+
+
 #define FID_CPlusPlus_Source_CPlusPlus_CPP_ConeMove_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACPP_ConeMove(); \

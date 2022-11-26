@@ -3214,3 +3214,180 @@ BP_三角錐_C.ReceiveBeginPlay
 [2022.11.26-05.39.44:230][118]Display: Reload/Re-instancing Complete: No object changes detected
 [2022.11.26-05.39.44:230][118]LogLiveCoding: Error: Live coding failed, please see Live console for more information
 [2022.11.26-05.45.40:097][349]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.018 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.26-05.56.56:543][229]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-05.57.01:550][244]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-05.57.01:550][244]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-05.59.21:639][258]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-05.59.25:643][270]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-05.59.25:643][270]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.18.19:350][658]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.18.20:356][661]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.18.20:356][661]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.19.15:072][824]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.19.20:082][839]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.19.20:082][839]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.37.13:533][386]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.37.17:910][399]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.37.17:910][399]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.39.11:508][738]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.39.15:512][750]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.39.15:512][750]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.39.38:614][819]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.39.42:292][830]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.39.42:292][830]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.40.11:462][917]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.40.12:129][919]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.40.12:129][919]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.40.34:932][987]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.40.35:945][990]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.40.35:945][990]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.45.40:395][899]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.025 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.26-06.52.57:574][683]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.53.02:253][697]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.53.02:253][697]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.54.51:553][ 23]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.54.55:563][ 35]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.54.55:563][ 35]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.56.14:023][269]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.56.15:034][272]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.56.15:034][272]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.56.35:785][334]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.56.36:454][336]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.56.36:454][336]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.56.59:900][406]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.57.00:902][409]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.57.00:902][409]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.59.04:043][147]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.59.04:706][149]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.59.04:706][149]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-06.59.29:757][224]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-06.59.30:762][227]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-06.59.30:762][227]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.00.43:817][445]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.00.48:826][460]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.00.48:826][460]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.01.03:616][504]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.01.07:609][516]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.01.07:609][516]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.01.24:035][565]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.01.25:026][568]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.01.25:026][568]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.01.44:422][626]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.01.45:089][628]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.01.45:089][628]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.02.02:881][681]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.02.03:886][684]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.02.03:886][684]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.04.17:199][ 82]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.04.18:205][ 85]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.04.18:205][ 85]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.06.28:178][473]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.06.29:179][476]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.06.29:179][476]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.24.54:467][954]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.24.55:474][957]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.24.55:474][957]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.25.36:960][ 81]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.25.38:964][ 87]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.25.38:964][ 87]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.29.48:586][525]LogEditorTransaction: Undo Move Node
+[2022.11.26-07.30.17:348][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.11.26-07.30.17:353][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2T/5VC5JRDGDLOSG3MM9OT69P_Auto4
+[2022.11.26-07.30.17:353][242]LogSavePackage: Moving 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/5VC5JRDGDLOSG3MM9OT69P_Auto4660AD22649AF293D606B21A283FAB0BA.tmp' to 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2T/5VC5JRDGDLOSG3MM9OT69P_Auto4.uasset'
+[2022.11.26-07.30.17:354][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2022.11.26-07.30.17:354][242]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2022.11.26-07.30.17:354][242]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_三角錐] ([2] browsable assets)...
+[2022.11.26-07.30.17:434][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_三角錐.BP_三角錐]
+[2022.11.26-07.30.17:434][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_三角錐]
+[2022.11.26-07.30.17:434][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_三角錐" FILE="D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/Autosaves/Game/BP/BP_三角錐_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.11.26-07.30.17:464][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_三角錐_Auto4
+[2022.11.26-07.30.17:464][242]LogSavePackage: Moving 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/BP_三角錐_Auto47EC21D124A48D8B469952FB75391202F.tmp' to 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/Autosaves/Game/BP/BP_三角錐_Auto4.uasset'
+[2022.11.26-07.30.17:464][242]LogFileHelpers: Auto-saving content packages took 0.110
+[2022.11.26-07.31.41:417][469]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.31.43:093][474]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.31.43:093][474]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.31.48:130][489]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.31.49:798][494]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.31.49:798][494]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.31.56:170][513]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.31.57:179][516]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.31.57:179][516]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.32.08:918][551]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.32.10:254][555]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.32.10:254][555]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.32.16:300][573]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.32.17:299][576]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.32.17:299][576]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.40.01:360][961]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.40.02:360][964]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.40.02:360][964]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.40.12:080][993]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.40.13:747][998]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.40.13:747][998]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.44.14:856][394]BlueprintLog: New page: Compile BP_三角錐
+[2022.11.26-07.44.14:924][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.11.26-07.44.15:679][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_三角錐" FILE="D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Content/BP/BP_三角錐.uasset" SILENT=true
+[2022.11.26-07.44.15:689][461]LogSavePackage: Moving output files for package: /Game/BP/BP_三角錐
+[2022.11.26-07.44.15:690][461]LogSavePackage: Moving 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/BP_三角錐3BFA9DC642272ED2BCD294B3A65A658B.tmp' to 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Content/BP/BP_三角錐.uasset'
+[2022.11.26-07.44.15:706][461]AssetCheck: New page: Asset Save: BP_三角錐
+[2022.11.26-07.44.15:706][461]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_三角錐.BP_三角錐
+[2022.11.26-07.44.16:602][562]LogViewport: Scene viewport resized to 753x548, mode Windowed.
+[2022.11.26-07.45.37:288][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.11.26-07.45.37:293][585]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2T/5VC5JRDGDLOSG3MM9OT69P_Auto5
+[2022.11.26-07.45.37:293][585]LogSavePackage: Moving 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/5VC5JRDGDLOSG3MM9OT69P_Auto593C53A5E42F5CA7CD7F4AD9A5E5BDB75.tmp' to 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2T/5VC5JRDGDLOSG3MM9OT69P_Auto5.uasset'
+[2022.11.26-07.45.37:294][585]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.058
+[2022.11.26-07.45.37:294][585]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.11.26-07.45.40:193][595]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.036 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.26-07.48.45:886][169]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.48.46:906][172]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.48.46:906][172]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.48.51:607][186]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.48.52:606][189]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.48.52:606][189]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.54.46:884][303]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-07.54.47:883][306]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-07.54.47:883][306]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-07.56.19:161][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_三角錐" FILE="D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Content/BP/BP_三角錐.uasset" SILENT=true
+[2022.11.26-07.56.19:172][848]LogSavePackage: Moving output files for package: /Game/BP/BP_三角錐
+[2022.11.26-07.56.19:173][848]LogSavePackage: Moving 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Saved/BP_三角錐D1FB7AE340E7EDFC0B4728A411D536B9.tmp' to 'D:/KID/Unreal_CY_CPlusPlus_20221126/Blueprint/Content/BP/BP_三角錐.uasset'
+[2022.11.26-07.56.19:188][848]AssetCheck: New page: Asset Save: BP_三角錐
+[2022.11.26-07.56.19:188][848]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_三角錐.BP_三角錐
+[2022.11.26-08.03.33:424][948]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.03.34:760][952]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.03.34:760][952]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.03.39:450][966]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.03.41:458][972]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.03.41:458][972]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.17.52:339][627]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.17.58:010][644]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.17.58:010][644]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.18.05:349][666]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.18.06:692][670]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.18.06:692][670]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.18.10:373][681]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.18.11:709][685]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.18.11:709][685]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.18.15:071][695]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.18.15:735][697]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.18.15:736][697]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.20.07:995][ 32]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.20.08:996][ 35]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.20.08:996][ 35]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.20.41:916][133]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.20.42:914][136]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.20.42:914][136]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.20.51:995][163]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.20.53:002][166]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.20.53:002][166]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.21.10:405][218]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.21.11:746][222]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.21.11:746][222]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.21.17:453][239]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.21.18:452][242]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.21.18:452][242]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.22.13:729][407]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.22.14:734][410]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.22.14:734][410]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-08.25.13:340][944]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-08.25.14:350][947]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-08.25.14:350][947]LogLiveCoding: Error: Live coding failed, please see Live console for more information
