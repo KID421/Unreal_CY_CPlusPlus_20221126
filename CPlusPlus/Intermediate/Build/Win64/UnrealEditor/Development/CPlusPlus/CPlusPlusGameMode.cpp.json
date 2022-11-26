@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\source\\cplusplus\\cplusplusgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\intermediate\\build\\win64\\cpluspluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\development\\cplusplus\\definitions.cplusplus.h",
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\source\\cplusplus\\cplusplusgamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplus\\cplusplusgamemode.generated.h",
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\source\\cplusplus\\cpluspluscharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplus\\cpluspluscharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
