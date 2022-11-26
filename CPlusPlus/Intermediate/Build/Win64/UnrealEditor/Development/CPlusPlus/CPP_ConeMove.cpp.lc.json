@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\source\\cplusplus\\cpp_conemove.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\intermediate\\build\\win64\\cpluspluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\development\\cplusplus\\definitions.cplusplus.h",
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\source\\cplusplus\\cpp_conemove.h",
+            "d:\\kid\\unreal_cy_cplusplus_20221126\\cplusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\cplusplus\\cpp_conemove.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

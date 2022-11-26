@@ -3207,3 +3207,10 @@ BP_三角錐_C.ReceiveBeginPlay
 [2022.11.26-05.00.49:227][ 59]LogDesktopPlatform: Searcing for projects in .uprojectdirs
 [2022.11.26-05.00.49:228][ 59]LogProjectBrowser: Enumerating Launcher Sample Projects...
 [2022.11.26-05.01.44:140][650]LogSlate: Window 'Open Project' being destroyed
+[2022.11.26-05.12.44:749][101]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-05.13.17:272][198]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-05.13.17:273][198]LogLiveCoding: Error: Live coding canceled
+[2022.11.26-05.39.29:164][ 73]LogLiveCoding: Display: Starting Live Coding compile.
+[2022.11.26-05.39.44:230][118]Display: Reload/Re-instancing Complete: No object changes detected
+[2022.11.26-05.39.44:230][118]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2022.11.26-05.45.40:097][349]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.018 and deleted 0 file(s) with total size 0 MiB.
